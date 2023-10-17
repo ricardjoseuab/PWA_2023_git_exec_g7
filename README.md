@@ -1,4 +1,4 @@
-Exercício com o Git - Grupo 1
+Exercício com o Git - Grupo 7
 
 Definição das tarefas
 
